@@ -1,0 +1,7 @@
+# Crash--RacingGame-
+This project pushed us to work deeply with low-level operations, graphics handling, memory management, and event-driven logic, and it truly strengthened my problem-solving skills.
+B& Project Highlights:
+• Designed and implemented a playable car game with smooth controls
+• Used low-level concepts like interrupts, memory-mapped video output, and assembly integration
+• Built complete menus, collision handling, scoring, and level mechanics
+• Optimized logic for performance in a low-level environment
